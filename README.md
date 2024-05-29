@@ -17,7 +17,9 @@ Pacotte Office - Expert Cursos.
 Entre outros...
 
 Estou estudando na Alura.
+
 Estou me desenvolvendo na linguagem JavaScript.
+
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos.
 
 
@@ -25,4 +27,5 @@ Tenho experiencia com SAP S/4HANA Cloud, sistemas de gestão de qualidade, proce
 
 
 Você pode entrar em contato comigo por:
+
 dudabudia@gmail.com
